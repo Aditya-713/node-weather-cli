@@ -6,4 +6,7 @@ fetch(url)
     .then(res => res.json())
     .then(data => console.log(data))
     .catch(err => console.error(err));
-//this is a weather api app
+
+
+//this is weather app
+
